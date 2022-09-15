@@ -8,8 +8,6 @@ function makeWorker() {
   
   let name = "John";
   
-  // create a function
   let work = makeWorker();
   
-  // call it
   work();
